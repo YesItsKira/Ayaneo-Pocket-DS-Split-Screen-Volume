@@ -65,3 +65,8 @@ Once Shizuku is running, Split Screen Volume will show:
 
 - Built for the **AYANEO Pocket DS** use case.
 - Shizuku is a separate app and is required for functionality.
+
+
+I dont charge for any of my projects and make them free for the communities they are in. If you like my stuff, id appreciate a tip!
+
+https://ko-fi.com/yesitskira
