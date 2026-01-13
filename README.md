@@ -1,5 +1,7 @@
 **Split Screen Volume** is a small utility app for the **AYANEO Pocket DS** that lets you manage volume for the top and bottom screens seperately using a clean popup control UI.
 
+# This build is out of date. You can access the most up to date versions and all my other tools through a single app! PDS Utilities: https://github.com/YesItsKira/PDS-Utilities
+
 ---
 
 ## What it does
